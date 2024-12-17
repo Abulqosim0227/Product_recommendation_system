@@ -13,4 +13,4 @@ The dataset here is taken from the below website.
 Source - Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/)  The repository has several datasets. For this case study, we are using the Electronics dataset.
 
 # Link to external sources
-!(Link to the dataset)[https://www.kaggle.com/datasets/pritech/ratings-electronics/data]
+[Link to the dataset](https://www.kaggle.com/datasets/pritech/ratings-electronics/data)
